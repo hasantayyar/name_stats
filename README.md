@@ -1,5 +1,9 @@
 # name_stats
 
+This repo contains name statistics for Turkey's 4.9611.679 citizen.
+
+
+
 Sample data
 
 ```
